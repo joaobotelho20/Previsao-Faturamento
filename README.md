@@ -14,12 +14,10 @@ Este repositório contém um código em Python que utiliza modelos de regressão
 ## 📂 Estrutura do Repositório [corrigir]
 ```
 📦 projeto-metas-faturamento [Exemplo ainda]
-├── 📂 data               # Dados de entrada (séries temporais de faturamento)
-├── 📂 models             # Modelos treinados
-├── 📂 notebooks          # Análises exploratórias e testes
-├── 📜 main.py            # Script principal de execução
-├── 📜 requirements.txt   # Dependências do projeto
-└── 📜 README.md          # Documentação do projeto
+├── 📜 client_secret.json           # Chave de acesso do cliente google
+├── 📜 token.json                   # Novo token iteravel
+├── 📜 Faturamento.ipynb            # Código para acessar dados e desenvolver previsão temporal
+
 ```
 
 ## 🔍 Exemplo de Uso
